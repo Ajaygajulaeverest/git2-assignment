@@ -1,3 +1,3 @@
 class tiger:
     def eat(self):
-        print("I can Eat more")
+        print("I can Eat moree")
